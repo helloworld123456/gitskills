@@ -1,3 +1,4 @@
+task3 branch add text
 task2 branch add text
 text added by test1 branch
 
