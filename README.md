@@ -1,4 +1,4 @@
-
+task2 branch add text
 text added by test1 branch
 
 master branch add text after task1 branch created
